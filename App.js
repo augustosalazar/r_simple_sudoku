@@ -3,7 +3,7 @@ import { Dimensions, SafeAreaView, StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
   return (
-    <SafeAreaView style={{ flex: 1}}>
+    <SafeAreaView style={{ flex: 1 }}>
       <View style={styles.container}>
 
         <View style={{
